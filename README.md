@@ -1,4 +1,4 @@
-# QazQa
+# QazQA
 This is our Kazakh Natural language processing model for Q&A system
 Creators - Saken Aldiyar, Quandyq Sultaniyar, Kamiluly Alibek - students of Astana IT university
 Nugumanova Aliya - scientific adviser.
